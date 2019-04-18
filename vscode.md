@@ -6,16 +6,21 @@
 
 ## Trabalhando 
 
+|  Recurso         | Combinação de teclas                  | Descrição                                     |
+|------------------|---------------------------------------|-----------------------------------------------|
+| mover linha      | ALT+Seta cima/baixo                   | mover linha entre cóodigo                     |
+| deleta linha     | CTRL+SHIFT+K                          | apaga linha do código                         |
+| seleção multipla | CTRL+SHIFT+L                          | selecione um texto e depois utilize as teclas |
+| copiar linha     | ALT+SHIFT+Seta cima/baixo             | duplica a linha                               |
+| terminal: ir     | CTRL+SHIFT+P (View: Focus into Panel) | ir para seleção do terminal                   |
+| terminal: fechar | CTRL+SHIFT+P (View: Close em Panel)   | fecha a janela do terminal                    |
+| seleção vertical | SHIFT+ALT+MOUSE                       | seleção vertical no código                    |
+|                  |                                       |                                               |
+|                  |                                       |                                               |
+|                  |                                       |                                               |
+|                  |                                       |                                               |
 
-
-
-Mover linhas  		-		Alt + Seta pra cima ou pra baixo para mover linhas.
-Deletar Linha		-		CTRL+SHIFT+K
-Select multiplo		-		CTRL+SHIFT+L
-Copiar linha		-		ALT+SHIFT+ Seta pra cima ou pra baixo para mover linhas.
-Ir Panel Term.		- 		CTRL+SHIFT+P (View: Focus em Panel)<-- Localiza
-Close Panel Term.	- 		CTRL+SHIFT+P (View: Close em Panel)<-- Localiza
-
+_tabela gerada no site_: http://www.tablesgenerator.com/markdown_tables
 
 Navegacao
 
