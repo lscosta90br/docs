@@ -45,7 +45,7 @@ _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
   
    **Adicional:**
 
-     * Se você quiser desativar apenas o modo de visualização no menu de abertura rápida, desmarque a caixa para workbench.editor.enablePreview From QuickOpen.
+     * Se você quiser desativar apenas o modo de visualização no menu de abertura rápida, desmarque a caixa para workbench.editor.enablePreview / From / QuickOpen.
 
 
 # Referencias:
