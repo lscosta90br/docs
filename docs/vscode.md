@@ -25,28 +25,30 @@
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
 
 
-## Configurações
+# Configurações
 
-  **Etapas para desativar o modo de visualização**
+## 1. Dicas:
 
-  Critério:
+1. Etapas para desativar o modo de visualização**
 
-  Se você quiser desabilitar o modo de visualização todos em uma unica tab, isto é:
+    **Critério**:
 
-  - acessando o arquivo através do menu lateral.
-  - abrindo o menu aberto rápido usando Ctrl+ P.
+     * Se você quiser desabilitar o modo de visualização todos em uma unica tab, isto é:
+
+     * acessando o arquivo através do menu lateral.
+     * abrindo o menu aberto rápido usando Ctrl+ P.
   
-Solução:
+     **Solução**:
 
-  - Abra a Paleta de Comandos usando o atalho Ctrl+ Shift+ P.
-  - Configurações. Pesquise workbench.editor.enablePreviewe desmarque a caixa de seleção. (as alterações são salvas automaticamente e indicadas com uma borda azul esquerda)
+     * Abra a Paleta de Comandos usando o atalho Ctrl+ Shift+ P.
+     * Configurações. Pesquise workbench.editor.enablePreviewe desmarque a caixa de seleção. (as alterações são salvas automaticamente e indicadas com uma borda azul esquerda)
   
-  Adicional:
+   **Adicional:**
 
-   Se você quiser desativar apenas o modo de visualização no menu de abertura rápida, desmarque a caixa para workbench.editor.enablePreviewFromQuickOpen.
+     * Se você quiser desativar apenas o modo de visualização no menu de abertura rápida, desmarque a caixa para workbench.editor.enablePreviewFromQuickOpen.
 
 
-Referencias:
+# Referencias:
 
 https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8
 
