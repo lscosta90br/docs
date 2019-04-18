@@ -24,6 +24,9 @@
 
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
 
+
+## Configurações
+
   **Etapas para desativar o modo de visualização**
 
   Critério:
