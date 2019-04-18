@@ -1,6 +1,5 @@
 # Microsoft Visual Studio Code Map:
 
-
 ## Layout VSCode
 ![](https://github.com/lscosta90br/docs/blob/master/img/vsCode-layout.png)
 
