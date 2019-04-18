@@ -25,6 +25,7 @@
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
 
 Referencias:
+
 https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8
 
 https://docs.microsoft.com/pt-br/visualstudio/ide/tips-and-tricks-for-visual-studio?view=vs-2019
