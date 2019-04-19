@@ -10,6 +10,7 @@
 | busca: arq. corrent | CTRL+F                                | busca no arquivo que esta em foco             |
 | busca arq. solucao  | CTRL+P                                | buscar um arquivo dentro da solution          |
 | copiar linha        | ALT+SHIFT+Seta cima/baixo             | duplica a linha                               |
+| comentario bloco    | "Marcar o block", CTRL+;              | comenta um block                              |
 | deleta linha        | CTRL+SHIFT+K                          | apaga linha do código                         |
 | explorer: ir        | CTRL+ALT+E                            | Vai para o explorer do vs code                |
 | Git: chama o git    | CTRL+SHIFT+G                          | vai para interface do git                     |
@@ -23,6 +24,20 @@
 | todas opções        | CTRL+SHIFT+P                          | para executar qualquer comando via localizar  |
 
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
+
+## Atalhos teclados:
+
+| Recurso                | Combinação de teclas       | Descrição                  |
+|------------------------|----------------------------|----------------------------|
+| final de linha         | END                        | vai para o final da linha  |
+| inicio da linha        | HOME                       | vai para o inicio da linha |
+| navegar entre palavras | CTRL+seta esqu./dir.       | vai pulando entre palavras |
+| selecao de palavras    | CTRL+SHIFT+setal esq./dir. | marca entre palavras       |
+| apagar palavra         | CTRL+BACKSPACE             | apagar palavras            |
+| indentação             | TAB                        | faz a indentação do texto  |
+| tirar identação        | TAB+SHIFT                  | tira a indentação do texto |
+_tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
+
 
 
 # Configurações
