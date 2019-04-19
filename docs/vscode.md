@@ -18,7 +18,8 @@
 | seleção multipla    | CTRL+SHIFT+L                          | selecione um texto e depois utilize as teclas |
 | seleção vertical    | SHIFT+ALT+MOUSE                       | seleção vertical no código                    |
 | terminal: fechar    | CTRL+SHIFT+P (View: Close em Panel)   | fecha a janela do terminal                    |
-| terminal: ir        | CTRL+SHIFT+P (View: Focus into Panel) | ir para seleção do terminal                   |
+| terminal: ir        | CTRL+SHIFT+P (View: Focus into Panel) | vai para seleção do terminal                  |
+| terminal: ir        | CTRL+"                                | vai para terminao                             |
 | todas opções        | CTRL+SHIFT+P                          | para executar qualquer comando via localizar  |
 
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
@@ -44,7 +45,7 @@ _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
   
    **Adicional:**
 
-     * Se você quiser desativar apenas o modo de visualização no menu de abertura rápida, desmarque a caixa para workbench.editor.enablePreviewFromQuickOpen.
+     * Se você quiser desativar apenas o modo de visualização no menu de abertura rápida, desmarque a caixa para workbench.editor.enablePreview From QuickOpen.
 
 
 # Referencias:
