@@ -36,6 +36,7 @@ _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
 | apagar palavra         | CTRL+BACKSPACE             | apagar palavras            |
 | indentação             | TAB                        | faz a indentação do texto  |
 | tirar identação        | TAB+SHIFT                  | tira a indentação do texto |
+
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
 
 
