@@ -19,7 +19,7 @@
 | seleção vertical    | SHIFT+ALT+MOUSE                       | seleção vertical no código                    |
 | terminal: fechar    | CTRL+SHIFT+P (View: Close em Panel)   | fecha a janela do terminal                    |
 | terminal: ir        | CTRL+SHIFT+P (View: Focus into Panel) | vai para seleção do terminal                  |
-| terminal: ir        | CTRL+"                                | vai para terminao                             |
+| terminal: ir        | CTRL+"                                | vai para terminal                             |
 | todas opções        | CTRL+SHIFT+P                          | para executar qualquer comando via localizar  |
 
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
