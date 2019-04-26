@@ -22,6 +22,11 @@
 | terminal: ir        | CTRL+SHIFT+P (View: Focus into Panel) | vai para seleção do terminal                  |
 | terminal: ir        | CTRL+"                                | vai para terminal                             |
 | todas opções        | CTRL+SHIFT+P                          | para executar qualquer comando via localizar  |
+| Multi seleção       | CTRL+D                                | selecione uma palavra /depois pressione ctrl+D|
+| Multi seleção total | CTRL+F2                               | selecione todas as palavras                   |
+
+
+
 
 Uma outra opção é selecionar a palavra que quer, depois pressionar alt+D, cada vez que apertar alt+D ele vai selecionando essa palavra por todo seu projeto, ai depois é só digitar a nova que ele substitui em tudo.
 
