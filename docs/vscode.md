@@ -23,6 +23,10 @@
 | terminal: ir        | CTRL+"                                | vai para terminal                             |
 | todas opções        | CTRL+SHIFT+P                          | para executar qualquer comando via localizar  |
 
+Uma outra opção é selecionar a palavra que quer, depois pressionar alt+D, cada vez que apertar alt+D ele vai selecionando essa palavra por todo seu projeto, ai depois é só digitar a nova que ele substitui em tudo.
+
+No meu caso eu mudei o padrão do VSCode para ficar igual ao sublime text, troquei o ALT pelo CTRL. isso você faz nas configurações do VSCode
+
 _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
 
 ## Atalhos teclados:
