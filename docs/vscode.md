@@ -24,7 +24,7 @@
 | todas opções        | CTRL+SHIFT+P                          | para executar qualquer comando via localizar  |
 | Multi seleção       | CTRL+D                                | selecione uma palavra /depois pressione ctrl+D|
 | Multi seleção total | CTRL+F2                               | selecione todas as palavras                   |
-
+| Executa codigo      | Ctrl+Alt+N                            | executa codigo na console                     |
 
 
 
