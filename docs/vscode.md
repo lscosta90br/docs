@@ -72,6 +72,49 @@ _tabela gerada pelo site_: http://www.tablesgenerator.com/markdown_tables
 
      * Se você quiser desativar apenas o modo de visualização no menu de abertura rápida, desmarque a caixa para workbench.editor.enablePreview From QuickOpen.
 
+## Comando para listar extensão:
+```
+#UNIX:
+code --list-extensions | xargs -L 1 echo code --install-extension
+
+#Windows
+code --list-extensions | % { "code --install-extension $_" }
+```
+
+## Extensão que utilizo:
+code --install-extension alefragnani.Bookmarks
+code --install-extension baterson.copy-django-model-fields
+code --install-extension bibhasdn.django-snippets
+code --install-extension bigonesystems.django
+code --install-extension ChakrounAnas.turbo-console-log
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dracula-theme.theme-dracula
+code --install-extension eamodio.gitlens
+code --install-extension ecmel.vscode-html-css
+code --install-extension formulahendry.code-runner
+code --install-extension hnw.vscode-auto-open-markdown-preview
+code --install-extension humao.rest-client
+code --install-extension jevakallio.vscode-hacker-typer
+code --install-extension keesschollaart.vscode-home-assistant
+code --install-extension lkytal.pomodoro
+code --install-extension magicstack.MagicPython
+code --install-extension minhthai.vscode-todo-parser
+code --install-extension ms-python.python
+code --install-extension oderwat.indent-rainbow
+code --install-extension redhat.vscode-yaml
+code --install-extension ritwickdey.live-sass
+code --install-extension ritwickdey.LiveServer
+code --install-extension shamanu4.django-intellisense
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension thebarkman.vscode-djaneiro
+code --install-extension thekalinga.bootstrap4-vscode
+code --install-extension Tyriar.shell-launcher
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension wmaurer.change-case
+code --install-extension xabikos.JavaScriptSnippets
+
 
 # Referencias:
 
@@ -80,3 +123,5 @@ https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85
 https://docs.microsoft.com/pt-br/visualstudio/ide/tips-and-tricks-for-visual-studio?view=vs-2019
 
 https://medium.com/@programadriano/hoje-irei-apresentar-o-vs-code-visual-studio-code-para-quem-ainda-n%C3%A3o-teve-contato-com-ele-6a0d6bd3baec
+
+https://code.visualstudio.com/docs/editor/command-line
