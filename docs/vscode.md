@@ -82,6 +82,7 @@ code --list-extensions | % { "code --install-extension $_" }
 ```
 
 ## Extensão que utilizo:
+```
 code --install-extension alefragnani.Bookmarks
 code --install-extension baterson.copy-django-model-fields
 code --install-extension bibhasdn.django-snippets
@@ -114,7 +115,7 @@ code --install-extension Tyriar.shell-launcher
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension wmaurer.change-case
 code --install-extension xabikos.JavaScriptSnippets
-
+```
 
 # Referencias:
 
