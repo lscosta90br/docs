@@ -12,7 +12,7 @@
 
 ## Controle Remeto IR
 
-* [Remote IR](https://github.com/lscosta90br/docs/blob/master/remoto%20ir/rm_mini_fortrek_som2_1_ms2104.md)
+* [Remote IR](https://github.com/lscosta90br/docs/blob/master/remoto-ir/rm_mini_fortrek_som2_1_ms2104.md)
 
 ## Node-js
 
