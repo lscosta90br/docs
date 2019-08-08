@@ -1,3 +1,3 @@
 Documentações:
 
-[VsCode atalhos](https://github.com/lscosta90br/docs/blob/master/docs/vscode.md)
+[VsCode atalhos](https://github.com/lscosta90br/docs/blob/master/vscode/vscode.md)
