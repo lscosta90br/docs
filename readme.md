@@ -1,8 +1,7 @@
-# Documentações:
+# Documentações
 
 * [VsCode atalhos](https://github.com/lscosta90br/docs/blob/master/vscode/vscode.md)
 * [Personalizando](https://github.com/lscosta90br/docs/blob/master/vscode/personalizando.md)
-
 
 ## Python
 
