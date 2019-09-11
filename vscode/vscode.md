@@ -128,6 +128,26 @@ code --install-extension wmaurer.change-case
 code --install-extension xabikos.JavaScriptSnippets
 ```
 
+### Extensão simplificada:
+```
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension cstrap.flask-snippets
+code --install-extension DavidAnson.vscode-markdownlint   
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dracula-theme.theme-dracula      
+code --install-extension formulahendry.code-runner        
+code --install-extension ms-python.anaconda-extension-pack
+code --install-extension ms-python.python
+code --install-extension oderwat.indent-rainbow
+code --install-extension PKief.material-icon-theme        
+code --install-extension redhat.vscode-yaml
+code --install-extension ritwickdey.LiveServer
+code --install-extension rocketseat.RocketseatReactJS     
+code --install-extension rocketseat.RocketseatReactNative 
+code --install-extension shardulm94.trailing-spaces       
+code --install-extension thebarkman.vscode-djaneiro       
+code --install-extension thekalinga.bootstrap4-vscode   
+```
 # Referencias:
 
 https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8
