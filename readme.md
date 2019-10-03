@@ -16,3 +16,8 @@
 ## Node-js
 
 * [Node Windows 10](https://github.com/lscosta90br/docs/blob/master/node-js/node-instalacao-windows10.md)
+
+
+## Django Prod
+
+* [Estoque prod](https://github.com/lscosta90br/docs/blob/master/django-prod/estoque.md)
