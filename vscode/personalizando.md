@@ -43,7 +43,7 @@ Personalizando fontes e configurações
     // Configura tamanho e familia da fonte
     "editor.fontSize": 18,
     "editor.lineHeight": 24,
-    "editor.fontFamily": "Fire Code" ,
+    "editor.fontFamily": "Fira Code Retina" ,
     "editor.fontLigatures": true,
 
     // Aplicar linhas verticais para lembrar de quebrar linhas em códigos
